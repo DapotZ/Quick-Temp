@@ -1,4 +1,4 @@
-# quicktempupdate
+# quicktemp
 
 A new Flutter project.
 
