@@ -1,8 +1,9 @@
-# quicktempupdate
+# quicktemp
 
 A new Flutter project.
 
 ## Getting Started
+## FIREBASE
 
 This project is a starting point for a Flutter application.
 
