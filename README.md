@@ -6,6 +6,7 @@ A new Flutter project.
 ## FIREBASE
 
 Download google-services.json from Firebase
+
 Configuration build.gradle for Android
 
 This project is a starting point for a Flutter application.
